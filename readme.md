@@ -2,6 +2,8 @@
 
 This repository contains a script for automating the generation of crop reports. The script scrapes data from a Google Sheet and uses the Playwright library to retrieve images or screenshots from web pages. It then generates a PDF report and sends it to specified recipients via email.
 
+[![YouTube Video](https://img.youtube.com/vi/ZMN70wnHQvM/0.jpg)](https://youtu.be/ZMN70wnHQvM)
+
 ## Features
 
 - Scrapes data from Google Sheet in CSV format
